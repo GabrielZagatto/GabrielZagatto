@@ -21,7 +21,7 @@ ___
 </div>
 
 ___
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielZagatto&layout=compact&theme=dark"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielZagatto&layout=compact&theme=dark)
 ___
 
 ## Meus contatos
